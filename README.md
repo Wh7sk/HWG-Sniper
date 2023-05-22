@@ -1,5 +1,5 @@
 
-# HWG Sniper
+# HWG Sniper v1.1
 
 # Features
 - Nitro Sniper
