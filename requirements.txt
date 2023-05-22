@@ -1,0 +1,5 @@
+discord.py==1.4.2
+colorama
+numpy
+requests
+pyPrivnote
