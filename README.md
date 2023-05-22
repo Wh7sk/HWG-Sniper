@@ -1,1 +1,5 @@
-# Nitro-Sniper
+# HWG Sniper
+
+## Installtion 
+
+## Requirements
